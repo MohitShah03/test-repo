@@ -1,1 +1,1 @@
-print("Hey this is just a testing PR, NTMY oreki the pr reviewer")
+print("This is to test the Github APP")
